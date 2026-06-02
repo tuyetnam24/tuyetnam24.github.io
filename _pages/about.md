@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+style: ".page__content { font-size: 0.9em; } .page__footer { display: none; }"
 ---
 
 <div style="font-size: 0.9em;">
