@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Tuyet Nam Thi Nguyen"
   pronouns         : # example: "Dr."  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # Bio
   location         : "Ho Chi Minh City, Vietnam"
   employer         : "Saigon University"
   uri              : # URL
