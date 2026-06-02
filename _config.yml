@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Nguyen Thi Tuyet Nam | Academic Website"
+title                    : "Academic Website"
 title_separator          : "-"
-name                     : "Nguyen Thi Tuyet Nam"
+name                     : "Tuyet Nam Thi Nguyen"
 description              : "PhD in Environmental Science and Engineering"
 url                      : "https://tuyetnam24.github.io"
 baseurl                  : ""
