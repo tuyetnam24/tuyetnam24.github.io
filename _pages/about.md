@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div align="justify">
+<div style="font-size: 0.9em;">
 Welcome to my academic homepage! I am a lecturer in the Faculty of Engineering and Technology at Saigon University, Vietnam. I hold a Ph.D. in Environmental Science and Engineering from the Ulsan National Institute of Science and Technology (UNIST), South Korea, where I developed a strong foundation in environmental monitoring and modeling techniques.
 
 My research focuses on air pollution and environmental quality, particularly the monitoring, modeling, and assessment of pollutants and their impacts on human health. I am passionate about applying data-driven approaches, including machine learning models, to solve environmental challenges—with the aim of enhancing prediction accuracy, understanding spatiotemporal pollution patterns, and supporting evidence-based decision-making. My work spans air quality assessment, environmental exposure analysis, and the integration of environmental data with modern computational techniques.
@@ -18,7 +18,9 @@ Beyond research, I am dedicated to teaching and mentoring students, guiding them
 </div>
 
 ### 🔬 Research Interests
-<div align="justify">
+
+<div style="font-size: 0.9em;">
+
 * **Environmental Monitoring with Artificial Intelligence**: Machine learning models are applied to analyze and predict pollutants and environmental parameters, aiming to improve environmental monitoring, early warning, and data-driven decision-making.
 * **Environmental Monitoring and Assessment**: To understand how environmental pollutants vary over time and across locations using measurement data and modeling. This helps identify pollution sources and supports better air quality management.
 * **Air Pollutant Dispersion and Transport Modeling**: Atmospheric models, such as AERMOD and HYSPLIT, are applied to study how air pollutants spread and travel, from local urban areas to long-range transport. This work helps explain pollution pathways and their impacts on air quality and human health.
