@@ -21,11 +21,11 @@ repository               : "tuyetnam24/tuyetnam24.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Nguyen Thi Tuyet Nam"
+  name             : "Tuyet Nam Thi Nguyen"
   pronouns         : 
-  bio              : "Lecturer in Environmental Science & Engineering"
+  bio              : 
   location         : "Ho Chi Minh City, Vietnam"
-  employer         : "Saigon University"
+  employer         : "Faculty of Engineering and Technology, Saigon University"
   uri              : 
   email            : "ntnam@sgu.edu.vn" 
 
