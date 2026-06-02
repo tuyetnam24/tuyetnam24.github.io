@@ -13,7 +13,7 @@ title                    : "Nguyen Thi Tuyet Nam | Academic Website"
 title_separator          : "-"
 name                     : "Nguyen Thi Tuyet Nam"
 description              : "PhD in Environmental Science and Engineering"
-url                      : "https://tuyetnam.github.io"
+url                      : "https://tuyetnam24.github.io"
 baseurl                  : ""
 repository               : "tuyetnam24/tuyetnam24.github.io"
 
@@ -32,14 +32,14 @@ author:
   # Academic websites
   academia         : 
   arxiv            : 
-  googlescholar    : "CN8KlokAAAAJ"
+  googlescholar    : "https://scholar.google.com.vn/citations?hl=vi&user=CN8KlokAAAAJ&view_op=list_works&sortby=pubdate"
   inspire-hep      : 
   impactstory      : 
-  orcid            : "0000-0003-0749-0383"
+  orcid            : "https://orcid.org/0000-0003-0749-0383"
   semantic         : 
   ssrn             : 
   pubmed           : 
-  researchgate     : "Tuyet-Nam-Nguyen"
+  researchgate     : "https://www.researchgate.net/profile/Tuyet-Nam-Nguyen"
   scopus           : 
   zotero           : 
 
