@@ -30,6 +30,15 @@ Beyond research, I am dedicated to teaching and mentoring students, guiding them
 
 </div>
 
+---
+
+### 🌐 Find Me On
+
+* 📊 **[Google Scholar](https://scholar.google.com.vn/citations?hl=vi&user=CN8KlokAAAAJ&view_op=list_works&sortby=pubdate)**
+* 🆔 **[ORCID Profile](https://orcid.org/0000-0003-0749-0383)**
+* 🟢 **[ResearchGate](https://www.researchgate.net/profile/Tuyet-Nam-Nguyen)**
+* 📧 **Email:** [ntnam@sgu.edu.vn](mailto:ntnam@sgu.edu.vn)
+
 
 
 
