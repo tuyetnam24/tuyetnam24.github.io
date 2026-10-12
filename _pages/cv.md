@@ -11,54 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Ulsan National Institute of Science and Technology (UNIST), South Korea, 2020
+* M.S. University of Technology, Vietnam National University, 2010
+* B.S. University of Science, Vietnam National University Ho Chi Minh City, 2007
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Lecturer:   
+  * Saigon University (2021 – Present)
+  * Address: 273 An Duong Vuong, Ho Chi Minh City, Vietnam
+* Post-doctoral fellow: 
+  * Ulsan National Institute of Science and Technology (UNIST) (2020 – 2021)
+  * Address: 50-UNIST-gil, Ulsan, South Korea, Ulsan, South Korea
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data analysis & visualization
+* Geographical Information System
+* Data analysis & programming
+* Environmental modeling
+ 
+Honors and Awards
+======
+* Excellent Academic Achievement
+  * National Institute of International Education, South Korea Ministry of Education (2017]
+* Global Korean Scholarship (GKS) for a Ph.D. study in South Korea
+  * National Institute of International Education, South Korea Ministry of Education (2014)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
